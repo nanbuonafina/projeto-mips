@@ -4,9 +4,9 @@
 
 | Documento | Conteúdo |
 |---|---|
-| [docs/formato-json.md](formato-json.md) | Especificação dos arquivos de entrada e saída, com exemplos |
-| [docs/instrucoes-suportadas.md](instrucoes-suportadas.md) | Tabela completa de opcodes/functs e sintaxe assembly gerada por instrução |
-| [docs/guia-execucao.md](guia-execucao.md) | Como rodar o simulador e os testes |
+| [formato-json.md](docs/formato-json.md) | Especificação dos arquivos de entrada e saída, com exemplos |
+| [instrucoes-suportadas.md](docs/instrucoes-suportadas.md) | Tabela completa de opcodes/functs e sintaxe assembly gerada por instrução |
+| [guia-execucao.md](docs/guia-execucao.md) | Como rodar o simulador e os testes |
 
 ## Status do projeto
 
